@@ -24,4 +24,5 @@ nav:
     - Refactoring: workflow/refactoring.md
     - Squashing Commits: workflow/squashing_commits.md
     - Stories: workflow/stories.md
-plugins: techdocs-core
+plugins: 
+  - techdocs-core
