@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  title: "Software Engineer Community"
+  name: "software-engineer-community"
+  description: "General information and standards for the ONS software engineering community of practice"
+  annotations:
+    github.com/project-slug: backstage-dummy-org/software-engineer-community
+    backstage.io/techdocs-ref: dir:.
+  links:
+    - title: ONS Website
+      url: https://www.ons.gov.uk/
+      icon: dashboard
+spec:
+  type: documentation
+  lifecycle: production
+  owner: "tech-leads"
