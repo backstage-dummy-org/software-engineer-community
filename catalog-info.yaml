@@ -14,4 +14,4 @@ metadata:
 spec:
   type: documentation
   lifecycle: production
-  owner: "tech-leads"
+  owner: "tech-lead"
