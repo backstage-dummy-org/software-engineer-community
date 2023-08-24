@@ -1,0 +1,27 @@
+site_name: Software Engineer Community
+site_description: "General information and standards for the ONS software engineering community of practice"
+docs_dir: .
+nav:
+  - Home: index.md
+  - Cloud Foundry: cloud-foundry/README.md
+  - Induction: induction/Induction_of_Software_Engineers_at_ONS.md
+  - Standards:
+    - Overview: standards/README.md
+    - Documentation: standards/documentation.md
+    - Git: standards/git.md
+    - GitHub: standards/github.md
+    - Licencing: standards/licencing.md
+    - Logging: standards/logging.md
+    - Peer Review: standards/peer_review.md
+    - Secrets: standards/secrets.md
+    - Support: standards/support.md
+    - Testing: standards/testing.md
+  - Workflow:
+    - Overview: workflow/README.md
+    - Commit Messages: workflow/commit_messages.md
+    - Continuous Integration: workflow/continuous_integration.md
+    - Pull Requests: workflow/pull_request.md
+    - Refactoring: workflow/refactoring.md
+    - Squashing Commits: workflow/squashing_commits.md
+    - Stories: workflow/stories.md
+plugins: techdocs-core
